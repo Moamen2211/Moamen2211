@@ -56,7 +56,7 @@ Designed and verified the **Data Link Layer (DLL)** of PCIe v5, including sequen
 
 ## 🎓 Certifications
 
-- **RTL Design using Verilog** – *LinkedIn Learning*  
+- **Digital Design using FPGA**  – *LinkedIn Learning*  
 - **Digital ASIC Flow (RTL to GDSII)** – *LinkedIn Learning*
 
 ---
