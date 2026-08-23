@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Moamen Ashraf 👋</h1>
 
 <h3 align="center">
-  ASIC Physical Design Engineer | Digital IC Design | RTL to GDSII
+  ASIC Physical Design Engineer
 </h3>
 
 <p align="center">
@@ -30,10 +30,10 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Fresh **Electronics and Communication Engineering Graduate** from Sohag University.
+* 🎓  **ITI 9-Month Professional Scholarship — Digital IC Design && Electronics and Communication Engineering Graduate from Sohag University**.
 * 💻 Aspiring **ASIC Physical Design (PnR) Engineer** with a strong passion for Digital IC Design and Semiconductor Technologies.
 * 🔄 Experienced with the **RTL-to-GDSII flow**, including Synthesis, STA, DFT, Low-Power Design, and Physical Design.
-* 🏗️ Hands-on experience with **Floorplanning, Power Planning, Placement, CTS, Routing, and Timing Closure**.
+* 🏗️ Hands-on experience with **Floorplanning, Power Planning, Placement, CTS, Routing, and Timing Closure (Primetime)**.
 * 🔬 Worked with **90nm, 32nm, and 14nm technology nodes**.
 * 🚀 Currently working on ASIC Physical Design projects and continuously expanding my expertise in VLSI and Backend Design.
 * 👨‍🏫 Worked as a **Teaching Assistant (TA) in Digital IC Design Summer Training at ITI**.
@@ -96,27 +96,33 @@ Sponsored by **ICpedia**
   * Routing
   * Timing Analysis
   * DRC Fixing
-  * Timing Closure
+  * Timing Closure (Primetime)
 * Worked with standard cells and SRAM macros.
 * Investigated and resolved physical design, routing, congestion, and timing violations.
 
 ---
 
-### 🔹 RTL to GDSII — Low Power Configurable Multi-Clock Digital System
+### 🔹 ASIC Physical Design — MIPS
 
-**Jun 2024 – Aug 2024**
+**Aug 2026**
 
-* Implemented a configurable multi-clock digital system from **RTL to GDSII**.
-* Designed and integrated:
+* Implemented the **ASIC Physical Design (PnR) flow** on a **32nm technology node**.
 
-  * UART
-  * ALU
-  * Register File
-  * Clock Divider
-  * Asynchronous FIFO
-  * Synchronizers
-  * Clock Gating
-* Worked on **CDC verification**, low-power techniques, synthesis, and timing constraints.
+---
+
+### 🔹 ASIC Physical Design — I2C Master
+
+**Jun 2026**
+
+* Implemented the **ASIC Physical Design (PnR) flow** on a **32nm technology node**.
+
+---
+
+### 🔹 ASIC Physical Design — UART TX
+
+**Apr 2026**
+
+* Implemented the **ASIC Physical Design (PnR) flow** on a **90nm technology node**.
 
 ---
 
@@ -151,30 +157,6 @@ Sponsored by **ICpedia**
 
 ---
 
-### 🔹 ASIC Physical Design — MIPS
-
-**Aug 2026**
-
-* Implemented the **ASIC Physical Design (PnR) flow** on a **32nm technology node**.
-
----
-
-### 🔹 ASIC Physical Design — I2C Master
-
-**Jun 2026**
-
-* Implemented the **ASIC Physical Design (PnR) flow** on a **32nm technology node**.
-
----
-
-### 🔹 ASIC Physical Design — UART TX
-
-**Apr 2026**
-
-* Implemented the **ASIC Physical Design (PnR) flow** on a **90nm technology node**.
-
----
-
 ### 🔹 Digital Design and Simulation of PCIe v5 Data Link Layer
 
 **Graduation Project | Verilog**
@@ -191,6 +173,22 @@ Sponsored by **ICpedia**
 * Target operating frequency: **150 MHz**.
 
 ---
+### 🔹 RTL to GDSII — Low Power Configurable Multi-Clock Digital System
+
+**Jun 2024 – Aug 2024**
+
+* Implemented a configurable multi-clock digital system from **RTL to GDSII**.
+* Designed and integrated:
+
+  * UART
+  * ALU
+  * Register File
+  * Clock Divider
+  * Asynchronous FIFO
+  * Synchronizers
+  * Clock Gating
+* Worked on **CDC verification**, low-power techniques, synthesis, and timing constraints.--
+---
 
 ## 🛠️ Technical Skills
 
@@ -204,7 +202,7 @@ Sponsored by **ICpedia**
 
 ### 🏗️ Physical Design
 
-`Floorplanning` `Power Planning` `Placement` `CTS` `Routing` `Timing Closure` `DRC`
+`Floorplanning` `Power Planning` `Placement` `CTS` `Routing` `Timing Closure (Primetime)` `DRC`
 
 ### 🔧 EDA Tools
 
@@ -235,13 +233,15 @@ Sponsored by **ICpedia**
 **Spark Ray Training Center — Jun 2024 – Aug 2024**
 
 * 3-month intensive Digital IC Design training
-* **Grade: Excellent**
 * Instructor: **Eng. Ali Mohamed El-Temsah**
+* **Grade: Excellent**
 
 ### Cisco CCNA
 
 **National Telecommunication Institute (NTI) — Aug 2023**
-
+* 90 hours technical lectures
+* 30 hours soft skills training
+* **Grade: Excellent**
 ---
 
 ## 🤝 Personal Skills
