@@ -138,7 +138,8 @@ Sponsored by **ICpedia**
 
 ### 🔹 Single-Cycle & Pipelined 32-bit MIPS Processor
 
-**Verilog | Dec 2025**
+**Verilog | Dec 2025**  
+🔗 **[Single-Cycle MIPS Repo](https://github.com/Moamen2211/MIPS-Processor)** | 🔗 **[Pipelined MIPS Repo](https://github.com/Moamen2211/Pipeline-MIPS-Processor)**
 
 * Designed and simulated a 32-bit Single-Cycle MIPS processor.
 * Extended the design into a **5-stage Pipelined MIPS processor**.
@@ -149,7 +150,8 @@ Sponsored by **ICpedia**
 
 ### 🔹 APB Protocol Design
 
-**Nov 2025**
+**Nov 2025**  
+🔗 **[GitHub Repository](https://github.com/Moamen2211/APB-interface)**
 
 * Designed an **APB Master-Slave protocol** using logic gates and an FSM controller.
 * Implemented synchronous data transfers with a **128-bit register interface**.
@@ -158,20 +160,18 @@ Sponsored by **ICpedia**
 
 ### 🔹 Digital Design and Simulation of PCIe v5 Data Link Layer
 
-**Graduation Project | Verilog**
+**Graduation Project | Verilog**  
+🔗 **[GitHub Repository](https://github.com/Moamen2211/GP)**
 
 * Designed and implemented the **PCIe v5 Data Link Layer (DLL)**.
 * Developed TX and RX components for reliable packet transmission and reception.
 * Worked on:
-
   * Sequence Number Generation
   * LCRC Generation and Checking
   * Arbitration
   * TLP Handling
   * Data Link Initialization
-* Target operating frequency: **150 MHz**.
-
----
+* Target operating frequency: **150 MHz**.---
 ### 🔹 RTL to GDSII — Low Power Configurable Multi-Clock Digital System
 
 **Jun 2024 – Aug 2024**
