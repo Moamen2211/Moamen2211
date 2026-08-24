@@ -83,12 +83,12 @@ Sponsored by **ICpedia**
 
 ### 🔹 ASIC Physical Design of NVIDIA Deep Learning Accelerator (NVDLA)
 
-**ITI Graduation Project | Sponsored by ICPedia**
+**ITI Graduation Project | Sponsored by ICPedia**  
+🔗 **[GitHub Repository](https://github.com/Moamen2211/NVIDIA-Deep-Learning-Accelerator-NVDLA-)**
 
 * Implemented the **ASIC Physical Design flow** for the open-source NVIDIA Deep Learning Accelerator.
 * Worked across **14nm and 32nm technology nodes**.
 * Performed:
-
   * Floorplanning
   * Power Planning
   * Placement
@@ -99,7 +99,6 @@ Sponsored by **ICpedia**
   * Timing Closure (Primetime)
 * Worked with standard cells and SRAM macros.
 * Investigated and resolved physical design, routing, congestion, and timing violations.
-
 ---
 
 ### 🔹 ASIC Physical Design — MIPS
